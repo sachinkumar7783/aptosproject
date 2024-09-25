@@ -1,6 +1,7 @@
 # Digital Art Gallery Smart Contract
 
 ## Vision
+![WhatsApp Image 2024-09-25 at 14 04 40_d5022a82](https://github.com/user-attachments/assets/6ba09882-0376-4e92-afa4-e0bbbe10eb93)
 
 The **Digital Art Gallery** smart contract enables artists to list digital art pieces for sale and allows buyers to purchase them using AptosCoin. This contract facilitates a decentralized marketplace for digital art, ensuring secure transactions and ownership transfers within the Aptos ecosystem.
 
